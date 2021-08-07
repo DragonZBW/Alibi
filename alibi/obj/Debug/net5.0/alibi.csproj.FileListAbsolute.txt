@@ -1,0 +1,15 @@
+/Users/wilsons/Desktop/Alibi/alibi/bin/Debug/net5.0/alibi.deps.json
+/Users/wilsons/Desktop/Alibi/alibi/bin/Debug/net5.0/alibi.runtimeconfig.json
+/Users/wilsons/Desktop/Alibi/alibi/bin/Debug/net5.0/alibi.runtimeconfig.dev.json
+/Users/wilsons/Desktop/Alibi/alibi/bin/Debug/net5.0/alibi.dll
+/Users/wilsons/Desktop/Alibi/alibi/bin/Debug/net5.0/ref/alibi.dll
+/Users/wilsons/Desktop/Alibi/alibi/bin/Debug/net5.0/alibi.pdb
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.csproj.AssemblyReference.cache
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.AssemblyInfoInputs.cache
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.AssemblyInfo.cs
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.csproj.CoreCompileInputs.cache
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.dll
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/ref/alibi.dll
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.pdb
+/Users/wilsons/Desktop/Alibi/alibi/obj/Debug/net5.0/alibi.genruntimeconfig.cache
