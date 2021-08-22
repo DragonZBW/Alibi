@@ -31,7 +31,7 @@ namespace Alibi
                               break;
                         }
 
-                        // TODO: Interpret user input
+                        // Lex text to tokens
                         Lexer lexer = new Lexer();
                         var tokens = lexer.Lex(input);
                         Console.ForegroundColor = ConsoleColor.Yellow;
@@ -40,9 +40,16 @@ namespace Alibi
                               Console.WriteLine(token.Type);
                         }
 
+                        // Parse tokens to tree
                         Parser parser = new Parser(tokens);
                         var root = parser.Parse();
+                        Console.WriteLine();
                         root.WriteTo(Console.Out);
+
+                        // Interpret tree to value
+                        Interpreter interpreter = new Interpreter(root);
+                        Console.WriteLine();
+                        Console.WriteLine(interpreter.Interpret());
                   }
             }
       }
